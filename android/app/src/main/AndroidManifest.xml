@@ -4,7 +4,7 @@
         android:label="world_quakes"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyBiM_VKGqz8pd6k5vQOc9imw_I4hy4paJE"/>
+           android:value="GetGoogleMapKey"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
