@@ -1,5 +1,8 @@
 # world_quakes
 
+This simple app shows a world map, you can get info about earthquakes that happened in close time.
+
+
 A new Flutter application.
 
 ## Getting Started
